@@ -1,0 +1,969 @@
+﻿
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\Office\16.0\excel.exe_Rules
+Length          : 
+LastWriteTime   : 3/27/2026 5:40:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\Office\16.0\winword.exe_Rules
+Length          : 
+LastWriteTime   : 3/28/2026 12:42:39 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\GetHelp.exe
+Length          : 0
+LastWriteTime   : 4/16/2026 4:37:17 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\microsoftstore.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\ms-teams.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\ms-teamsupdate.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\ms-teams_ac.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\ms-teams_autostarter.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\mspaint.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:36:42 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\notepad.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:26 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\olk.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PBIDesktopStore.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:58:02 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\pbrush.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:36:42 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\py.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\pymanager.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\python.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\python3.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\pythonw.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\pyw.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\pywmanager.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\SnippingTool.exe
+Length          : 0
+LastWriteTime   : 4/14/2026 7:59:27 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\store.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\WindowsPackageManagerServer.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\winget.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\wt.exe
+Length          : 0
+LastWriteTime   : 4/15/2026 6:55:43 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\XboxPcAppAdminServer.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:33:31 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\XboxPcAppCE.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:33:31 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8weky
+                  b3d8bbwe\python.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8weky
+                  b3d8bbwe\python3.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8weky
+                  b3d8bbwe\WindowsPackageManagerServer.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.DesktopAppInstaller_8weky
+                  b3d8bbwe\winget.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 12:33:56 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.GamingApp_8wekyb3d8bbwe\X
+                  boxPcAppAdminServer.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:33:31 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.GamingApp_8wekyb3d8bbwe\X
+                  boxPcAppCE.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:33:31 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.GetHelp_8wekyb3d8bbwe\Get
+                  Help.exe
+Length          : 0
+LastWriteTime   : 4/16/2026 4:37:17 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_8
+                  wekyb3d8bbwe\PBIDesktopStore.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:58:02 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.OutlookForWindows_8wekyb3
+                  d8bbwe\olk.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.Paint_8wekyb3d8bbwe\mspai
+                  nt.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:36:42 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.Paint_8wekyb3d8bbwe\pbrus
+                  h.exe
+Length          : 0
+LastWriteTime   : 4/22/2026 11:36:42 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.ScreenSketch_8wekyb3d8bbw
+                  e\SnippingTool.exe
+Length          : 0
+LastWriteTime   : 4/14/2026 7:59:27 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsNotepad_8wekyb3d8b
+                  bwe\notepad.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:26 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsStore_8wekyb3d8bbw
+                  e\microsoftstore.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsStore_8wekyb3d8bbw
+                  e\store.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:22 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\Microsoft.WindowsTerminal_8wekyb3d8
+                  bbwe\wt.exe
+Length          : 0
+LastWriteTime   : 4/15/2026 6:55:43 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\MSTeams_8wekyb3d8bbwe\ms-teams.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\MSTeams_8wekyb3d8bbwe\ms-teamsupdat
+                  e.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\MSTeams_8wekyb3d8bbwe\ms-teams_ac.e
+                  xe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\MSTeams_8wekyb3d8bbwe\ms-teams_auto
+                  starter.exe
+Length          : 0
+LastWriteTime   : 4/26/2026 5:01:58 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\py.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\pymanager.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\python.exe
+Length          : 0
+LastWriteTime   : 4/15/2026 1:52:38 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\python3.exe
+Length          : 0
+LastWriteTime   : 4/15/2026 1:52:38 AM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\pythonw.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\pyw.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.PythonMana
+                  ger_qbz5n2kfra8p0\pywmanager.exe
+Length          : 0
+LastWriteTime   : 4/1/2026 10:59:07 PM
+SignatureStatus : 
+SignerCN        : 
+SHA256          : 
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\Code.exe
+Length          : 202582048
+LastWriteTime   : 4/1/2026 10:12:02 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : E13C8B3DFC538F58CAC8CEA07350FE5E7B82DAFBC519265CA7260FEB6BAD23B3
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\new_Code.exe
+Length          : 202604576
+LastWriteTime   : 4/21/2026 11:34:10 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 8C4D804E0257918F4E9F87C19B337BCC30F78E9CE991C57040C09B8E6C894CB3
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\unins000.exe
+Length          : 3494944
+LastWriteTime   : 4/22/2026 12:00:43 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 9068CCFA4DDCBA38953B7F8480A144F1FF5193A18CAD7DAB3F2B16CD73EB9051
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\10c8e557c8\resources\app\exten
+                  sions\copilot\node_modules\@github\copilot\sdk\prebuilds\win32-x64\conpty\OpenConsole
+                  .exe
+Length          : 1072808
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 54A85CA99D0F3B4755A5EF00FF97A82FB519160148216E6192BE8A7F3B7D329B
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\10c8e557c8\resources\app\exten
+                  sions\copilot\node_modules\@github\copilot\sdk\ripgrep\bin\win32-x64\rg.exe
+Length          : 5441056
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : DEFB88098F7B4F36E00360B5E3B8DEBFEDCDCDB79F391ABB77C340F5E8FE066A
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\10c8e557c8\resources\app\node_
+                  modules\@github\copilot\prebuilds\win32-x64\conpty\OpenConsole.exe
+Length          : 1072808
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 54A85CA99D0F3B4755A5EF00FF97A82FB519160148216E6192BE8A7F3B7D329B
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\10c8e557c8\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe
+Length          : 5441056
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : DEFB88098F7B4F36E00360B5E3B8DEBFEDCDCDB79F391ABB77C340F5E8FE066A
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\10c8e557c8\resources\app\node_modules\@vscode\vsce-sign\bin\vsce-sign.exe
+Length          : 5622912
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 4C1DC47D7F021C84497B94499480D40BE077CA689EB4F3F4EBDBF25840273FB9
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\10c8e557c8\resources\app\node_
+                  modules\node-pty\build\Release\conpty\OpenConsole.exe
+Length          : 1072808
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 54A85CA99D0F3B4755A5EF00FF97A82FB519160148216E6192BE8A7F3B7D329B
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\10c8e557c8\tools\inno_updater.exe
+Length          : 623688
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : CF3E6C2EB0A479F7E8055118493E18EFB8A350C9743C9990372F71ECCD504F14
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\560a9dba96\resources\app\exten
+                  sions\copilot\node_modules\@github\copilot\sdk\prebuilds\win32-x64\conpty\OpenConsole
+                  .exe
+Length          : 1072768
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 73AEF99E51D1FE7FB1E92E88E8E16130D951CAAA00E6330CFD7BBD1C4222966C
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\560a9dba96\resources\app\exten
+                  sions\copilot\node_modules\@github\copilot\sdk\ripgrep\bin\win32-x64\rg.exe
+Length          : 5441096
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 93BE5758F0085ECF4BA604BB11544549E5FD8EB508BCEF15654F0D9659BC10EB
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\560a9dba96\resources\app\node_
+                  modules\@github\copilot\prebuilds\win32-x64\conpty\OpenConsole.exe
+Length          : 1072768
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 73AEF99E51D1FE7FB1E92E88E8E16130D951CAAA00E6330CFD7BBD1C4222966C
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\560a9dba96\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe
+Length          : 5441096
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 93BE5758F0085ECF4BA604BB11544549E5FD8EB508BCEF15654F0D9659BC10EB
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\560a9dba96\resources\app\node_modules\@vscode\vsce-sign\bin\vsce-sign.exe
+Length          : 5622912
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : F41D88BB616FE26B0D0949F0C50FED21F8F406D09A4F3DA4C9FD7D48CB040494
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\560a9dba96\resources\app\node_
+                  modules\node-pty\build\Release\conpty\OpenConsole.exe
+Length          : 1072768
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 73AEF99E51D1FE7FB1E92E88E8E16130D951CAAA00E6330CFD7BBD1C4222966C
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\560a9dba96\tools\inno_updater.exe
+Length          : 623648
+LastWriteTime   : 4/15/2026 12:52:34 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 28C8170942D42D2DB232BD0D2ED638F84E3EEB07DC9D548746808DEFF880B3B2
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin\code-tunnel.exe
+Length          : 25568800
+LastWriteTime   : 4/1/2026 10:11:06 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 6A276C71A46540ABDC91F6F5909DF501375F66206A9098D08D38D00D58B09283
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin\new_code-tunnel.exe
+Length          : 26530336
+LastWriteTime   : 4/21/2026 11:32:52 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : A7EBC5AA3B8B9BA8689530D8E93A3431B1E3CD060150F034D61D46C4C3B21056
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\e7fb5e96c0\resources\app\node_
+                  modules\@github\copilot\prebuilds\win32-x64\conpty\OpenConsole.exe
+Length          : 1072768
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 2E2D33035C9533CDFE4B61E1FF094317C04755A4DBD3237D9EC9B159845BD18C
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\e7fb5e96c0\resources\app\node_modules\@vscode\ripgrep\bin\rg.exe
+Length          : 5441056
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : D7F0231513A3AACFF9D129C4EA702D19FC1ECE90F20DCA32ADB7F283C75DC883
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\e7fb5e96c0\resources\app\node_modules\@vscode\vsce-sign\bin\vsce-sign.exe
+Length          : 5622912
+LastWriteTime   : 4/1/2026 10:11:16 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : B47055541957611C30714E506E33BADDAAFAE1C6E700DC2116C080D7F24A6156
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS Code\e7fb5e96c0\resources\app\node_
+                  modules\node-pty\build\Release\conpty\OpenConsole.exe
+Length          : 1072768
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 2E2D33035C9533CDFE4B61E1FF094317C04755A4DBD3237D9EC9B159845BD18C
+
+FullName        : C:\Users\user\AppData\Local\Programs\Microsoft VS 
+                  Code\e7fb5e96c0\tools\inno_updater.exe
+Length          : 625184
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 09283A1F6137131DCBC4A61A7BB86B15DC848D1787AEF328F312AEDE155E236D
+
+FullName        : C:\Users\user\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-10c8e557c8b9
+                  f9ed0a87f61f1c9a44bde731c409.exe
+Length          : 158209336
+LastWriteTime   : 4/22/2026 12:00:42 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 9F3061D1B1B17B8240D435ED948E555C729537876AA7495D03D6102721665157
+
+FullName        : C:\Users\user\AppData\Roaming\Claude\ChromeNativeHost\chrome-native-host.exe
+Length          : 1038160
+LastWriteTime   : 4/24/2026 11:37:03 AM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 4C461DDD6E27F8FEBA5088C51E71F2BE714F00AD61AAAD8C853ABA2E1B7F6BA3
+
+FullName        : C:\Users\user\AppData\Roaming\Claude\claude-code\2.1.111\claude.exe
+Length          : 245423264
+LastWriteTime   : 4/24/2026 11:44:26 AM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 51024DBCD60382B6FB881B5CDA6754A0FE445A90D3AD02EB5F13A2733AC3262E
+
+FullName        : C:\Users\user\AppData\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc_QUARANTINE_DO_
+                  NOT_DELETE\FNPLicensingService.exe
+Length          : 104792
+LastWriteTime   : 3/27/2026 12:00:02 PM
+SignatureStatus : Valid
+SignerCN        : CN=Python Software Foundation, O=Python Software Foundation, L=Beaverton, S=Oregon, 
+                  C=US
+SHA256          : B35F09B876EDB18695347860F79ACDDC68993F711274556156769476CD05AE8A
+
+FullName        : C:\Users\user\AppData\Local\Temp\vscode-stable-user-x64\CodeSetup-stable-10c8e557c8b9
+                  f9ed0a87f61f1c9a44bde731c409.exe
+Length          : 158209336
+LastWriteTime   : 4/22/2026 12:00:42 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 9F3061D1B1B17B8240D435ED948E555C729537876AA7495D03D6102721665157
+
+FullName        : C:\Users\user\.docker\bin\inference\com.docker.llama-server.exe
+Length          : 8177392
+LastWriteTime   : 4/1/2026 2:23:35 PM
+SignatureStatus : Valid
+SignerCN        : CN=Docker Inc, O=Docker Inc, L=Palo Alto, S=California, C=US, SERIALNUMBER=4817464, 
+                  OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, 
+                  OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : E08EE8F8545C5DAFB0D0CA9F3590537455840DB02DFDDA7B3F82951E2AB535F5
+
+FullName        : C:\Users\user\.docker\bin\inference\com.docker.nv-gpu-info.exe
+Length          : 45296
+LastWriteTime   : 4/1/2026 2:23:35 PM
+SignatureStatus : Valid
+SignerCN        : CN=Docker Inc, O=Docker Inc, L=Palo Alto, S=California, C=US, SERIALNUMBER=4817464, 
+                  OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, 
+                  OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : FD73C320B207E87BF3C8A6189DD3A7A016042A376ABB71CA0D72A07FD8D2D709
+
+FullName        : C:\Users\user\.docker\bin\inference\llama-server.exe
+Length          : 8177392
+LastWriteTime   : 4/1/2026 2:23:37 PM
+SignatureStatus : Valid
+SignerCN        : CN=Docker Inc, O=Docker Inc, L=Palo Alto, S=California, C=US, SERIALNUMBER=4817464, 
+                  OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, 
+                  OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 45438F026845B4611474E3A7A21B486CAB83D3AC39CA60D591CEB88300D8EE4C
+
+FullName        : C:\Users\user\.vscode\extensions\anthropic.claude-code-2.1.109-win32-x64\resources\na
+                  tive-binary\claude.exe
+Length          : 243366560
+LastWriteTime   : 4/15/2026 6:52:50 AM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 5676C66765CE20942D4685B026FC9AF0089B7D1D81931ED326B0EFE88E81CAB8
+
+FullName        : C:\Users\user\.vscode\extensions\anthropic.claude-code-2.1.114-win32-x64\resources\na
+                  tive-binary\claude.exe
+Length          : 245966496
+LastWriteTime   : 4/20/2026 9:50:20 AM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 6F4A961EA8A1D656C41DD71CBEF202CB71D13C443F86818C721167C33F8A51FD
+
+FullName        : C:\Users\user\.vscode\extensions\anthropic.claude-code-2.1.117-win32-x64\resources\na
+                  tive-binary\claude.exe
+Length          : 247959712
+LastWriteTime   : 4/22/2026 11:11:57 AM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 1EA41BAA6102C0AE3E3EA9D29A7CD809165DC498E82A8AE10D1E78A297EFEFA1
+
+FullName        : C:\Users\user\.vscode\extensions\anthropic.claude-code-2.1.120-win32-x64\resources\na
+                  tive-binary\claude.exe
+Length          : 251858080
+LastWriteTime   : 4/25/2026 2:45:39 PM
+SignatureStatus : Valid
+SignerCN        : CN="Anthropic, PBC", O="Anthropic, PBC", L=San Francisco, S=California, C=US, 
+                  SERIALNUMBER=4860621, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 987D99DFAE28C9A554BBB15A9D432CFA75DF7C175DB523C232EF68950068DF4C
+
+FullName        : C:\Users\user\.vscode\extensions\github.copilot-chat-0.42.3\node_modules\@github\copi
+                  lot\sdk\prebuilds\win32-x64\conpty\OpenConsole.exe
+Length          : 1072768
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 2E2D33035C9533CDFE4B61E1FF094317C04755A4DBD3237D9EC9B159845BD18C
+
+FullName        : C:\Users\user\.vscode\extensions\github.copilot-chat-0.42.3\node_modules\@github\copi
+                  lot\sdk\ripgrep\bin\win32-x64\rg.exe
+Length          : 5441056
+LastWriteTime   : 4/1/2026 10:10:42 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : D7F0231513A3AACFF9D129C4EA702D19FC1ECE90F20DCA32ADB7F283C75DC883
+
+FullName        : C:\Users\user\.vscode\extensions\ms-python.vscode-pylance-2026.2.1\dist\bundled\bin\w
+                  in32-arm64\pylance-indexer.exe
+Length          : 2882048
+LastWriteTime   : 3/31/2026 4:38:16 PM
+SignatureStatus : NotSigned
+SignerCN        : 
+SHA256          : A04E05B363570EBEBCA82B1AFF8291CE91A029F4DBF15BE1DD1F5610FBA7A6F1
+
+FullName        : C:\Users\user\.vscode\extensions\ms-python.vscode-pylance-2026.2.1\dist\bundled\bin\w
+                  in32-x64\pylance-indexer.exe
+Length          : 3208704
+LastWriteTime   : 3/31/2026 4:38:16 PM
+SignatureStatus : NotSigned
+SignerCN        : 
+SHA256          : 78D6513C89247E5F565769B170D1CBD78A25F84B1F57B189E3E8D4DF8AFD7BAE
+
+FullName        : C:\Users\user\.vscode\extensions\ms-python.vscode-python-envs-1.26.0-win32-x64\python
+                  -env-tools\bin\pet.exe
+Length          : 5592128
+LastWriteTime   : 4/1/2026 10:45:32 PM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : F98D13F7FB60B9BB31534F4A4B775891E679082C5ACC77618B509CC26A201DAA
+
+FullName        : C:\Users\user\.vscode\extensions\ms-python.vscode-python-envs-1.28.0-win32-x64\python
+                  -env-tools\bin\pet.exe
+Length          : 5813824
+LastWriteTime   : 4/20/2026 9:50:12 AM
+SignatureStatus : Valid
+SignerCN        : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 3F50BA55AD3ABFC45A64D624E15FF015DC0E0036530A8B15CE431B3D14D27EC5
+
+FullName        : C:\Users\user\Desktop\Investigation_20260425_133102\evidence\malware_full_copy\FNPLic
+                  ensingService.exe
+Length          : 104792
+LastWriteTime   : 3/27/2026 12:00:02 PM
+SignatureStatus : Valid
+SignerCN        : CN=Python Software Foundation, O=Python Software Foundation, L=Beaverton, S=Oregon, 
+                  C=US
+SHA256          : B35F09B876EDB18695347860F79ACDDC68993F711274556156769476CD05AE8A
+
+FullName        : C:\Users\user\Desktop\Investigation_20260425_133102\sample\FNPLicensingService.exe
+Length          : 104792
+LastWriteTime   : 3/27/2026 12:00:02 PM
+SignatureStatus : Valid
+SignerCN        : CN=Python Software Foundation, O=Python Software Foundation, L=Beaverton, S=Oregon, 
+                  C=US
+SHA256          : B35F09B876EDB18695347860F79ACDDC68993F711274556156769476CD05AE8A
+
+FullName        : C:\Users\user\Downloads\AnyDesk (1).exe
+Length          : 8360376
+LastWriteTime   : 4/23/2026 5:03:22 PM
+SignatureStatus : Valid
+SignerCN        : CN=AnyDesk Software GmbH, O=AnyDesk Software GmbH, L=Stuttgart, S=Baden-Württemberg, 
+                  C=DE
+SHA256          : 2AC2DA18754E34BB6BAB866EBBA03A741A487648AADDA7B25D88E2B2B5FA8DF6
+
+FullName        : C:\Users\user\Downloads\AnyDesk.exe
+Length          : 8360376
+LastWriteTime   : 4/23/2026 5:03:15 PM
+SignatureStatus : Valid
+SignerCN        : CN=AnyDesk Software GmbH, O=AnyDesk Software GmbH, L=Stuttgart, S=Baden-Württemberg, 
+                  C=DE
+SHA256          : 2AC2DA18754E34BB6BAB866EBBA03A741A487648AADDA7B25D88E2B2B5FA8DF6
+
+FullName        : C:\Users\user\Downloads\dbeaver-ce-26.0.1-windows-x86_64.exe
+Length          : 116364872
+LastWriteTime   : 3/27/2026 12:59:18 PM
+SignatureStatus : Valid
+SignerCN        : CN=DBeaver Corp, O=DBeaver Corp, L=New York, S=New York, C=US
+SHA256          : FA117E057E03C9E3A3E3D83251544BA891C6CDEB32539F256D0921487138AA0B
+
+FullName        : C:\Users\user\Downloads\dotnet-sdk-9.0.313-win-x64 (1).exe
+Length          : 227868520
+LastWriteTime   : 4/23/2026 6:17:16 PM
+SignatureStatus : Valid
+SignerCN        : CN=.NET, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 5FD6F08933C8AAA4B03963852FD9CE7931E1AC1BDDB5D67B649BC1C112A79338
+
+FullName        : C:\Users\user\Downloads\dotnet-sdk-9.0.313-win-x64.exe
+Length          : 227868520
+LastWriteTime   : 4/23/2026 6:16:41 PM
+SignatureStatus : Valid
+SignerCN        : CN=.NET, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+SHA256          : 5FD6F08933C8AAA4B03963852FD9CE7931E1AC1BDDB5D67B649BC1C112A79338
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\gkape.exe
+Length          : 63133368
+LastWriteTime   : 4/25/2026 1:00:56 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 48788FFB46766A92E4574E4A318146E5EAD36C03CCA30EB03F6F2DF50C79CE14
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\kape.exe
+Length          : 7003832
+LastWriteTime   : 4/25/2026 1:00:56 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 6167472179D0B5B028560DCC84EA1A2E3CB2D7128DD18E4E9278263B86A4318B
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\AmcacheParser.exe
+Length          : 4670648
+LastWriteTime   : 4/25/2026 1:00:58 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : C941FD1662E96186EAFC3406694DDC37F841A7F0ECF0211E51B82E74C69698B9
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\AppCompatCacheParser.exe
+Length          : 4522744
+LastWriteTime   : 4/25/2026 1:00:58 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : CC625D78812E6E4CAE43FDF1897C97BA9640CA25E6E1A3CDAB62C47E479494DD
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\bstrings.exe
+Length          : 4092088
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 4688EA113544047B66B0027AD8352B447112A0A75A1FD63ACD2180FB989BA29C
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\JLECmd.exe
+Length          : 4822200
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 544EE10AF68BAC273F1077897888BF90DA103AD9941B0095D0CB2AA32B5DCF89
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\LECmd.exe
+Length          : 5110968
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : FDA278C50F9684508E971FCAE0B79BF24695BAD12D82F817FB5C909CABA68FBE
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\MFTECmd.exe
+Length          : 4513976
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : D01A1B646778B2C2CC89141A15E9A177268BECEF9C4AACCD8036E7F418E4BF60
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\PECmd.exe
+Length          : 3977464
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 26759E06A61E5089273FBA882D3238DFE6A3D16B89784943A4191991C8A22A42
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\RBCmd.exe
+Length          : 3693240
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 8D2FA09B131E54EAD80855B4BB22772EAD40C7FA98C309B3128F0B90912488D7
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\RecentFileCacheParser.exe
+Length          : 3361464
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : D46BD91FED84B65671B6128130977BDF91E21C4FFE33EF4B5681A9EC51182F2D
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\SBECmd.exe
+Length          : 4914936
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : F0D8B6C7465CC68EB06283840110CFE7D4BC77A6A20A22BA13DF9EB0918494FA
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\SrumECmd.exe
+Length          : 4624568
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 4AA888AEA912D10912B484EBA2E53F8BCA2B4CF4EF42B20A76541EECE8CDAAB2
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\SumECmd.exe
+Length          : 3776248
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 518128B689685C7694562F0B5996582FA439B3461AE3BB0C5B16A5059A48E9F1
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\WxTCmd.exe
+Length          : 5697784
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : C9E1DB6F6BBDC610255D64CA841DB1BED5320A5AB75395909DDBEEABF7281555
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\EvtxECmd\EvtxECmd.exe
+Length          : 5110456
+LastWriteTime   : 4/25/2026 1:00:59 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 71F74D5C2F3561F785994BDE913CCF30C0251B434FD08D690F25BAA0817D37D9
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\RECmd\RECmd.exe
+Length          : 5196472
+LastWriteTime   : 4/25/2026 1:01:04 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 042039843216148DE8580C3997247BCF525E3B0B1B2C4F5FC251EFD564BCA656
+
+FullName        : C:\Users\user\Downloads\kape\KAPE\Modules\bin\SQLECmd\SQLECmd.exe
+Length          : 8383224
+LastWriteTime   : 4/25/2026 1:01:06 PM
+SignatureStatus : Valid
+SignerCN        : CN=Eric R. Zimmerman, O=Eric R. Zimmerman, STREET=15672 Provincial Ln, L=Fishers, 
+                  S=IN, PostalCode=46040, C=US
+SHA256          : 164408234526001BBE1AEF44CB6FE121BE5B24243903317D06589A50EC4A9248
+
+FullName        : C:\Users\user\Downloads\RamCapturer\x64\RamCapture64.exe
+Length          : 58480
+LastWriteTime   : 4/25/2026 12:51:20 PM
+SignatureStatus : Valid
+SignerCN        : CN=Belkasoft LLC, O=Belkasoft LLC, L=Menlo Park, S=California, C=US, 
+                  SERIALNUMBER=6128132, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 3F934019C46763B518C90E9D66088A301BD50FFC7F90D447FF1B54AF96AB9E4E
+
+FullName        : C:\Users\user\Downloads\RamCapturer\x86\RamCapture.exe
+Length          : 53872
+LastWriteTime   : 4/25/2026 12:51:20 PM
+SignatureStatus : Valid
+SignerCN        : CN=Belkasoft LLC, O=Belkasoft LLC, L=Menlo Park, S=California, C=US, 
+                  SERIALNUMBER=6128132, OID.2.5.4.15=Private Organization, 
+                  OID.1.3.6.1.4.1.311.60.2.1.2=Delaware, OID.1.3.6.1.4.1.311.60.2.1.3=US
+SHA256          : 6E2C3E0CE3ABBD8D027E77D210891F2F835400856F36BB70AEA47598F1C5B131
+

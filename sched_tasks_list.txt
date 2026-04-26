@@ -1,0 +1,336 @@
+﻿
+
+TaskName : GLPI Agent
+TaskPath : \
+Date     : 2025-11-11T21:39:54
+Author   : WORKGROUP\LAP-CIRT06$
+State    : Ready
+Action   : "C:\Program Files\GLPI-Agent\glpi-agent.bat" 
+
+TaskName : Lenovo.Vantage.ServiceMaintainance
+TaskPath : \Lenovo\Vantage\
+Date     : 2026-02-02T09:42:26.465+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : %systemroot%\system32\sc.exe start LenovoVantageService
+
+TaskName : ConsumerAddinDailyScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-03-31T13:34:40.214+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           ConsumerAddinDailyScheduleTask
+
+TaskName : DailyTelemetryTransmission
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.256+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           DailyTelemetryTransmission
+
+TaskName : GenericMessagingAddin
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.029+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           GenericMessagingAddin
+
+TaskName : GenericMessagingAddin_Pulsation
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2024-09-27T15:31:55.8155356
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           GenericMessagingAddin_Pulsation
+
+TaskName : HeartbeatAddinDailyScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.186+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           HeartbeatAddinDailyScheduleTask
+
+TaskName : IdeaNotebookAddinDailyEvent
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.391+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           IdeaNotebookAddinDailyEvent
+
+TaskName : Lenovo.Vantage.SmartPerformance.MonthlyReport
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-03T12:17:00.358+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           Lenovo.Vantage.SmartPerformance.MonthlyReport
+
+TaskName : LenovoCompanionAppAddinDailyScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.342+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           LenovoCompanionAppAddinDailyScheduleTask
+
+TaskName : LenovoSupportHealthReportSchedule
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:43:00.857+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           LenovoSupportHealthReportSchedule
+
+TaskName : LenovoSystemUpdateAddin_WeeklyTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:38.016+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           LenovoSystemUpdateAddin_WeeklyTask
+
+TaskName : SettingsWidgetAddinDailyScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:31.132+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           SettingsWidgetAddinDailyScheduleTask
+
+TaskName : SmartPerformance.ExpireReminder
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-03T12:17:00.468+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           SmartPerformance.ExpireReminder
+
+TaskName : VantageCoreAddinDailyScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:29.584+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           VantageCoreAddinDailyScheduleTask
+
+TaskName : VantageCoreAddinIdleScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-04-26T00:33:38.234+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\ProgramData\Lenovo\Vantage\Addins\VantageCoreAddin\1.1.0.29\x86\IdleScheduleEventAction.e
+           xe 
+
+TaskName : VantageCoreAddinWeekScheduleTask
+TaskPath : \Lenovo\Vantage\Schedule\
+Date     : 2026-02-02T09:42:29.525+01:00
+Author   : Lenovo Group Ltd.
+State    : Ready
+Action   : C:\Program Files (x86)\Lenovo\VantageService\4.2601.21.0\ScheduleEventAction.exe 
+           VantageCoreAddinWeekScheduleTask
+
+TaskName : Office Automatic Updates 2.0
+TaskPath : \Microsoft\Office\
+Date     : 2017-08-05T12:13:18.0043321
+Author   : Microsoft Office
+State    : Ready
+Action   : C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe 
+           /frequentupdate SCHEDULEDTASK displaylevel=False
+
+TaskName : Office Background Push Maintenance
+TaskPath : \Microsoft\Office\
+Date     : 2024-10-01T00:00:00
+Author   : Microsoft Office
+State    : Ready
+Action   : C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonx64\Microsoft 
+           Shared\Office16\opushutil.exe /pushregistration
+
+TaskName : Office ClickToRun Service Monitor
+TaskPath : \Microsoft\Office\
+Date     : 2005-10-11T13:21:17-08:00
+Author   : Microsoft Office
+State    : Ready
+Action   : C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe /WatchService
+
+TaskName : Office Feature Updates
+TaskPath : \Microsoft\Office\
+Date     : 2017-01-01T00:00:00
+Author   : Microsoft Office
+State    : Ready
+Action   : C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe 
+
+TaskName : Office Feature Updates Logon
+TaskPath : \Microsoft\Office\
+Date     : 2017-01-01T00:00:00
+Author   : Microsoft Office
+State    : Ready
+Action   : C:\Program Files\Microsoft Office\root\Office16\sdxhelper.exe /onlogon
+
+TaskName : .NET Framework NGEN v4.0.30319
+TaskPath : \Microsoft\Windows\.NET Framework\
+Date     : 2010-09-30T14:53:37.9516706
+Author   : 
+State    : Ready
+Action   :  
+
+TaskName : .NET Framework NGEN v4.0.30319 64
+TaskPath : \Microsoft\Windows\.NET Framework\
+Date     : 2010-09-30T14:53:37.9516706
+Author   : 
+State    : Ready
+Action   :  
+
+TaskName : .NET Framework NGEN v4.0.30319 64 Critical
+TaskPath : \Microsoft\Windows\.NET Framework\
+Date     : 2010-09-30T14:53:37.9516706
+Author   : 
+State    : Disabled
+Action   :  
+
+TaskName : .NET Framework NGEN v4.0.30319 Critical
+TaskPath : \Microsoft\Windows\.NET Framework\
+Date     : 2010-09-30T14:53:37.9516706
+Author   : 
+State    : Disabled
+Action   :  
+
+TaskName : AD RMS Rights Policy Template Management (Automated)
+TaskPath : \Microsoft\Windows\Active Directory Rights Management Services Client\
+Date     : 2006-11-10T14:29:55.5851926
+Author   : Microsoft Corporation
+State    : Disabled
+Action   :  
+
+TaskName : AD RMS Rights Policy Template Management (Manual)
+TaskPath : \Microsoft\Windows\Active Directory Rights Management Services Client\
+Date     : 2006-11-10T14:29:55.5851926
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : EDP Policy Manager
+TaskPath : \Microsoft\Windows\AppID\
+Date     : 2015-02-09T10:54:13.9629482
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : License Validation
+TaskPath : \Microsoft\Windows\Clip\
+Date     : 2014-01-01T00:00:00
+Author   : Microsoft Corporation
+State    : Disabled
+Action   : %SystemRoot%\system32\ClipUp.exe -p -s -o
+
+TaskName : LicenseImdsIntegration
+TaskPath : \Microsoft\Windows\Clip\
+Date     : 2021-03-01T00:00:00
+Author   : $(@%SystemRoot%\system32\fclip.exe,-100)
+State    : Disabled
+Action   : %SystemRoot%\system32\fclip.exe 
+
+TaskName : File History (maintenance mode)
+TaskPath : \Microsoft\Windows\FileHistory\
+Date     : 2010-08-12T00:00:00
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : WinSAT
+TaskPath : \Microsoft\Windows\Maintenance\
+Date     : 2008-02-25T19:15:00
+Author   : Microsoft
+State    : Ready
+Action   :  
+
+TaskName : MapsToastTask
+TaskPath : \Microsoft\Windows\Maps\
+Date     : 2014-11-05T00:00:00
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : MapsUpdateTask
+TaskPath : \Microsoft\Windows\Maps\
+Date     : 2014-11-05T00:00:00
+Author   : Microsoft Corporation
+State    : Disabled
+Action   :  
+
+TaskName : SystemSoundsService
+TaskPath : \Microsoft\Windows\Multimedia\
+Date     : 2005-06-23T13:48:00-08:00
+Author   : 
+State    : Running
+Action   :  
+
+TaskName : Secure-Boot-Update
+TaskPath : \Microsoft\Windows\PI\
+Date     : 2012-02-07T16:39:20
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : Sqm-Tasks
+TaskPath : \Microsoft\Windows\PI\
+Date     : 2011-07-22T00:00:00.8844064
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : RemoteAssistanceTask
+TaskPath : \Microsoft\Windows\RemoteAssistance\
+Date     : 2005-11-08T17:18:32
+Author   : Microsoft
+State    : Ready
+Action   : %windir%\system32\RAServer.exe /offerraupdate
+
+TaskName : EnableLicenseAcquisition
+TaskPath : \Microsoft\Windows\Subscription\
+Date     : 2016-01-01T00:00:00
+Author   : Microsoft Corporation
+State    : Ready
+Action   : %SystemRoot%\system32\ClipRenew.exe -e
+
+TaskName : LicenseAcquisition
+TaskPath : \Microsoft\Windows\Subscription\
+Date     : 2016-01-01T00:00:00
+Author   : Microsoft Corporation
+State    : Disabled
+Action   : %SystemRoot%\system32\ClipRenew.exe 
+
+TaskName : SynchronizeTimeZone
+TaskPath : \Microsoft\Windows\Time Zone\
+Date     : 2013-01-10T16:32:04.2837388
+Author   : Microsoft Corporation
+State    : Ready
+Action   : %windir%\system32\tzsync.exe 
+
+TaskName : Tpm-HASCertRetr
+TaskPath : \Microsoft\Windows\TPM\
+Date     : 2015-02-16T17:49:20.8844064
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : Tpm-Maintenance
+TaskPath : \Microsoft\Windows\TPM\
+Date     : 2010-06-10T17:49:20.8844064
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+TaskName : Tpm-PreAttestationHealthCheck
+TaskPath : \Microsoft\Windows\TPM\
+Date     : 2023-12-01T17:49:20.8844064
+Author   : Microsoft Corporation
+State    : Ready
+Action   :  
+
+
+
