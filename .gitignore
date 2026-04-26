@@ -1,5 +1,6 @@
-# Local analysis artifacts (Chrome SQLite DB is already on main)
+# Local analysis artifacts (already uploaded on main branch)
 chrome_History.db
+edge_History.zip
 
 # Reconstructed PowerShell scripts (extracted from powershell_scriptblocks_drop.txt)
 _b64_joined.txt
