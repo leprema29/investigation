@@ -1,6 +1,9 @@
 # Local analysis artifacts (already uploaded on main branch)
 chrome_History.db
 edge_History.zip
+chrome_cache_27mars.txt
+chrome_cache_27mars.zip
+chrome_cache_hits.txt
 
 # Reconstructed PowerShell scripts (extracted from powershell_scriptblocks_drop.txt)
 _b64_joined.txt
