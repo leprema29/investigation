@@ -1,0 +1,10 @@
+# Local analysis artifacts (Chrome SQLite DB is already on main)
+chrome_History.db
+
+# Reconstructed PowerShell scripts (extracted from powershell_scriptblocks_drop.txt)
+_b64_joined.txt
+_decoded_stage1.ps1
+_decoded_stage1.txt
+_full_script_66.ps1
+_script_*.ps1
+_stage1_norm*.ps1
