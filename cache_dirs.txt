@@ -1,0 +1,23 @@
+﻿
+FullName                                                                                               
+--------                                                                                               
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\Cache                                      
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\Cache\Cache_Data                           
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\Shared Dictionary\cache                    
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgm...
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\nmmhkkegccagdldgiimedpiccmgm...
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Guest Profile\Cache                                
+C:\Users\user\AppData\Local\Google\Chrome\User Data\Guest Profile\Cache\Cache_Data                     
+C:\Users\user\AppData\Local\Google\Chrome\User Data\System Profile\Cache                               
+C:\Users\user\AppData\Local\Google\Chrome\User Data\System Profile\Cache\Cache_Data                    
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\OneAuth\WebView2\EBWebView\Default\Cache          
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\OneAuth\WebView2\EBWebView\Default\Cache\Cache_...
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\OneAuth\WebView2\EBWebView\Default\Shared Dicti...
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Cache                                   
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Cache\Cache_Data                        
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Shared Dictionary\cache                 
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Storage\ext\ihmafllikibpmigkcoadcmckb...
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Storage\ext\ihmafllikibpmigkcoadcmckb...
+C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Profile 1\Storage\ext\ihmafllikibpmigkcoadcmckb...
+
+
