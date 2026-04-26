@@ -1,0 +1,895 @@
+﻿
+
+TimeCreated : 3/27/2026 12:03:30 PM
+Id          : 403
+Message     : L'état du moteur passe de Available à Stopped. 
+              
+              Détails : 
+              	NewEngineState=Stopped
+              	PreviousEngineState=Available
+              
+              	SequenceNumber=132
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=0deac444-461e-49b4-9b06-5dcef25ef922
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 12:03:14 PM
+Id          : 403
+Message     : L'état du moteur passe de Available à Stopped. 
+              
+              Détails : 
+              	NewEngineState=Stopped
+              	PreviousEngineState=Available
+              
+              	SequenceNumber=129
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=4c737f6b-4d12-406b-a05c-6ff7f9ccad33
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:59:55 AM
+Id          : 800
+Message     : Détails de l'exécution du pipeline pour la ligne de commande: Add-Type -AssemblyName 
+              System.IO.Compression -EA 0
+              . 
+              
+              Informations de contexte : 
+              	DetailSequence=1
+              	DetailTotal=1
+              
+              	SequenceNumber=126
+              
+              	UserId=LAP-AICHAOUSSEI\user
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=0deac444-461e-49b4-9b06-5dcef25ef922
+              	PipelineId=1
+              	ScriptName=
+              	CommandLine=Add-Type -AssemblyName System.IO.Compression -EA 0
+               
+              
+              Détails : 
+              CommandInvocation (Add-Type) : « Add-Type »
+              Liaison de paramètre (Add-Type) : nom = «AssemblyName» ; valeur = «System.IO.Compression»
+              Liaison de paramètre (Add-Type) : nom = « ErrorAction » ; valeur = « SilentlyContinue »
+              
+
+TimeCreated : 3/27/2026 11:59:55 AM
+Id          : 800
+Message     : Détails de l'exécution du pipeline pour la ligne de commande: Add-Type -AssemblyName 
+              System.IO.Compression.FileSystem -EA 0
+              . 
+              
+              Informations de contexte : 
+              	DetailSequence=1
+              	DetailTotal=1
+              
+              	SequenceNumber=124
+              
+              	UserId=LAP-AICHAOUSSEI\user
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=0deac444-461e-49b4-9b06-5dcef25ef922
+              	PipelineId=1
+              	ScriptName=
+              	CommandLine=Add-Type -AssemblyName System.IO.Compression.FileSystem -EA 0
+               
+              
+              Détails : 
+              CommandInvocation (Add-Type) : « Add-Type »
+              Liaison de paramètre (Add-Type) : nom = «AssemblyName» ; valeur = «
+              System.IO.Compression.FileSystem»
+              Liaison de paramètre (Add-Type) : nom = « ErrorAction » ; valeur = « SilentlyContinue »
+              
+
+TimeCreated : 3/27/2026 11:59:05 AM
+Id          : 800
+Message     : Détails de l'exécution du pipeline pour la ligne de commande:     Add-Type -AssemblyName 
+              System.Net.Http
+              . 
+              
+              Informations de contexte : 
+              	DetailSequence=1
+              	DetailTotal=1
+              
+              	SequenceNumber=122
+              
+              	UserId=LAP-AICHAOUSSEI\user
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=0deac444-461e-49b4-9b06-5dcef25ef922
+              	PipelineId=1
+              	ScriptName=
+              	CommandLine=    Add-Type -AssemblyName System.Net.Http
+               
+              
+              Détails : 
+              CommandInvocation (Add-Type) : « Add-Type »
+              Liaison de paramètre (Add-Type) : nom = « AssemblyName » ; valeur = « System.Net.Http »
+              
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 800
+Message     : Détails de l'exécution du pipeline pour la ligne de commande:         Add-Type 
+              -AssemblyName System.Net.Http
+              . 
+              
+              Informations de contexte : 
+              	DetailSequence=1
+              	DetailTotal=1
+              
+              	SequenceNumber=120
+              
+              	UserId=LAP-AICHAOUSSEI\user
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=4c737f6b-4d12-406b-a05c-6ff7f9ccad33
+              	PipelineId=1
+              	ScriptName=
+              	CommandLine=        Add-Type -AssemblyName System.Net.Http
+               
+              
+              Détails : 
+              CommandInvocation (Add-Type) : « Add-Type »
+              Liaison de paramètre (Add-Type) : nom = « AssemblyName » ; valeur = « System.Net.Http »
+              
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 400
+Message     : L'état du moteur passe de None à Available. 
+              
+              Détails : 
+              	NewEngineState=Available
+              	PreviousEngineState=None
+              
+              	SequenceNumber=118
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=4c737f6b-4d12-406b-a05c-6ff7f9ccad33
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « WSMan » est Started. 
+              
+              Détails : 
+              	ProviderName=WSMan
+              	NewProviderState=Started
+              
+              	SequenceNumber=116
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Certificate » est Started. 
+              
+              Détails : 
+              	ProviderName=Certificate
+              	NewProviderState=Started
+              
+              	SequenceNumber=114
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Variable » est Started. 
+              
+              Détails : 
+              	ProviderName=Variable
+              	NewProviderState=Started
+              
+              	SequenceNumber=112
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Function » est Started. 
+              
+              Détails : 
+              	ProviderName=Function
+              	NewProviderState=Started
+              
+              	SequenceNumber=110
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « FileSystem » est Started. 
+              
+              Détails : 
+              	ProviderName=FileSystem
+              	NewProviderState=Started
+              
+              	SequenceNumber=108
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Environment » est Started. 
+              
+              Détails : 
+              	ProviderName=Environment
+              	NewProviderState=Started
+              
+              	SequenceNumber=106
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Alias » est Started. 
+              
+              Détails : 
+              	ProviderName=Alias
+              	NewProviderState=Started
+              
+              	SequenceNumber=104
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:43 AM
+Id          : 600
+Message     : Le fournisseur « Registry » est Started. 
+              
+              Détails : 
+              	ProviderName=Registry
+              	NewProviderState=Started
+              
+              	SequenceNumber=102
+              
+              	HostName=Default Host
+              	HostVersion=5.1.26100.7920
+              	HostId=bc1d817e-41fa-41d7-ac70-b03403fb974a
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 400
+Message     : L'état du moteur passe de None à Available. 
+              
+              Détails : 
+              	NewEngineState=Available
+              	PreviousEngineState=None
+              
+              	SequenceNumber=13
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=0deac444-461e-49b4-9b06-5dcef25ef922
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « Variable » est Started. 
+              
+              Détails : 
+              	ProviderName=Variable
+              	NewProviderState=Started
+              
+              	SequenceNumber=11
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « Function » est Started. 
+              
+              Détails : 
+              	ProviderName=Function
+              	NewProviderState=Started
+              
+              	SequenceNumber=9
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « FileSystem » est Started. 
+              
+              Détails : 
+              	ProviderName=FileSystem
+              	NewProviderState=Started
+              
+              	SequenceNumber=7
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « Environment » est Started. 
+              
+              Détails : 
+              	ProviderName=Environment
+              	NewProviderState=Started
+              
+              	SequenceNumber=5
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « Alias » est Started. 
+              
+              Détails : 
+              	ProviderName=Alias
+              	NewProviderState=Started
+              
+              	SequenceNumber=3
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:49:16 AM
+Id          : 600
+Message     : Le fournisseur « Registry » est Started. 
+              
+              Détails : 
+              	ProviderName=Registry
+              	NewProviderState=Started
+              
+              	SequenceNumber=1
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=d8ba42eb-7987-46fc-a3b8-41baf4605253
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 400
+Message     : L'état du moteur passe de None à Available. 
+              
+              Détails : 
+              	NewEngineState=Available
+              	PreviousEngineState=None
+              
+              	SequenceNumber=13
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=93d321ec-81b3-42d6-9745-4efbfe7111b9
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « Variable » est Started. 
+              
+              Détails : 
+              	ProviderName=Variable
+              	NewProviderState=Started
+              
+              	SequenceNumber=11
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « Function » est Started. 
+              
+              Détails : 
+              	ProviderName=Function
+              	NewProviderState=Started
+              
+              	SequenceNumber=9
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « FileSystem » est Started. 
+              
+              Détails : 
+              	ProviderName=FileSystem
+              	NewProviderState=Started
+              
+              	SequenceNumber=7
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « Environment » est Started. 
+              
+              Détails : 
+              	ProviderName=Environment
+              	NewProviderState=Started
+              
+              	SequenceNumber=5
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « Alias » est Started. 
+              
+              Détails : 
+              	ProviderName=Alias
+              	NewProviderState=Started
+              
+              	SequenceNumber=3
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:47:16 AM
+Id          : 600
+Message     : Le fournisseur « Registry » est Started. 
+              
+              Détails : 
+              	ProviderName=Registry
+              	NewProviderState=Started
+              
+              	SequenceNumber=1
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=935e57aa-5787-4c76-9e96-d12067367b3d
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 400
+Message     : L'état du moteur passe de None à Available. 
+              
+              Détails : 
+              	NewEngineState=Available
+              	PreviousEngineState=None
+              
+              	SequenceNumber=13
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=5.1.26100.7920
+              	RunspaceId=e3d0834b-b9b5-430c-aa3b-5a4f897413d8
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « Variable » est Started. 
+              
+              Détails : 
+              	ProviderName=Variable
+              	NewProviderState=Started
+              
+              	SequenceNumber=11
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « Function » est Started. 
+              
+              Détails : 
+              	ProviderName=Function
+              	NewProviderState=Started
+              
+              	SequenceNumber=9
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « FileSystem » est Started. 
+              
+              Détails : 
+              	ProviderName=FileSystem
+              	NewProviderState=Started
+              
+              	SequenceNumber=7
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « Environment » est Started. 
+              
+              Détails : 
+              	ProviderName=Environment
+              	NewProviderState=Started
+              
+              	SequenceNumber=5
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « Alias » est Started. 
+              
+              Détails : 
+              	ProviderName=Alias
+              	NewProviderState=Started
+              
+              	SequenceNumber=3
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+TimeCreated : 3/27/2026 11:45:16 AM
+Id          : 600
+Message     : Le fournisseur « Registry » est Started. 
+              
+              Détails : 
+              	ProviderName=Registry
+              	NewProviderState=Started
+              
+              	SequenceNumber=1
+              
+              	HostName=ConsoleHost
+              	HostVersion=5.1.26100.7920
+              	HostId=10e3ab44-1ce3-4b57-a21a-4f528cc9a599
+              	HostApplication=C:\WINDOWS\Sysnative\WindowsPowerShell\v1.0\powershell.exe -NoP -NoLogo 
+              -NonI -Command -
+              	EngineVersion=
+              	RunspaceId=
+              	PipelineId=
+              	CommandName=
+              	CommandType=
+              	ScriptName=
+              	CommandPath=
+              	CommandLine=
+
+
+
