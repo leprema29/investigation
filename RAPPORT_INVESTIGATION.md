@@ -269,17 +269,53 @@ Le binaire Python est lancé avec un **chemin de DLL contrôlé** par l'attaquan
 
 Cette DLL contient le véritable malware (probablement du C2/RAT).
 
-### 7.4 Tâche planifiée
+### 7.4 Tâche planifiée — **PREUVE DIRECTE**
 
-La tâche planifiée :
-- Nom : *vraisemblablement* `<var>-<SID>` (forme observée dans le code : `$Va53 + "-" + $([System.Security.Principal.WindowsIdentity]::GetCurrent().User.Value)`)
-- **Cachée** (paramètre `-Hidden`)
-- Exécute `FNPLicensingService.exe "<sidecar>"` toutes les 10 minutes
-- Durée : 365 jours
-- Démarre même sur batterie, ne s'interrompt pas en passant sur batterie, démarre dès que possible si manqué
-- Tourne en `RunLevel Limited` (pas d'élévation requise — donc pas de prompt UAC)
+Vérification ultérieure via `Get-ScheduledTask` (sans filtre date) — la tâche est **présente sur le poste** :
 
-> ⚠️ La tâche n'apparaît pas dans `sched_tasks_list.txt` car le filtre `$_.Date -gt (Get-Date "3/27/2026")` n'a rien retourné — soit parce que la tâche utilise un timestamp `Date` antérieur (forge), soit parce qu'elle a été supprimée entre-temps. **À ré-énumérer sans filtre** lors de la remédiation.
+```
+TaskName  : AGCO Terms About 44060-S-1-5-21-408779975-2862430630-947889534-1001
+TaskPath  : \
+State     : Disabled
+Execute   : C:\Users\user\AppData\Roaming\Intel\GPUCache\intcache\
+            2cffb1d34d8f67bc\FNPLicensingService.exe
+Arguments : "C:\Users\user\AppData\Roaming\Intel\GPUCache\intcache\
+            2cffb1d34d8f67bc\node_modules.asar"
+Trigger   : PT10M (10 minutes)
+```
+
+**Décomposition** :
+- **Nom de tâche** : `AGCO Terms About 44060` (préfixe random) + `-` + SID Windows utilisateur (`S-1-5-21-408779975-2862430630-947889534-1001`)
+- **Execute** : `FNPLicensingService.exe` ← le binaire signé Python renommé (DLL sideloading host)
+- **Arguments** : `node_modules.asar` ← **payload sideloadé** (format d'archive Electron / TAR custom)
+- **Trigger** : `PT10M` = ISO 8601 duration de 10 minutes ✅ correspond exactement à la `RepetitionInterval` du code PowerShell décompilé
+- **State** : `Disabled` — ⚠️ probablement neutralisée par Microsoft Defender (voir §7.5)
+
+### 7.5 Hypothèse — quarantaine Defender
+
+Le drop initial observé est dans :
+```
+C:\Users\user\AppData\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc_QUARANTINE_DO_NOT_DELETE\FNPLicensingService.exe
+```
+
+Tandis que la tâche planifiée pointe vers :
+```
+C:\Users\user\AppData\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc\FNPLicensingService.exe
+```
+
+Le suffixe `_QUARANTINE_DO_NOT_DELETE` est caractéristique d'un renommage par **Microsoft Defender** (mécanisme de quarantaine non destructive). Cela signifie que :
+1. Defender a probablement détecté le comportement après le drop initial
+2. Defender a renommé le dossier d'origine pour neutraliser le sideloading
+3. La tâche planifiée pointe vers le path d'origine (qui n'existe plus) → tâche Disabled → la persistance est cassée
+
+**🛡️ Microsoft Defender a probablement sauvé la machine** en bloquant le sideloading post-drop.
+
+### 7.6 Nouveau IOC — `node_modules.asar`
+
+Le fichier `node_modules.asar` (format archive Electron) est le **payload effectif** chargé par la chaîne de sideloading :
+- Format : Electron Atom Shell Archive (header JSON + concat de fichiers)
+- Position : même dossier que `FNPLicensingService.exe`
+- Probablement : conteneur d'un runtime + script malveillant (Python ou JS) chargé par DLL companion ou par le binaire host lui-même
 
 ---
 
@@ -294,18 +330,32 @@ La tâche planifiée :
 | TLD | `*.in.net` | Sous-domaines gratuits — à surveiller globalement |
 | Type de connexion | UNC SMB → fallback WebDAV (HTTP/HTTPS) | Service `WebClient` requis |
 
-### 8.2 Fichier
+### 8.2 Fichiers
 
 | Type | Valeur |
 |---|---|
-| Nom | `FNPLicensingService.exe` |
+| Binaire host (sideloading) | `FNPLicensingService.exe` |
 | SHA-256 | `B35F09B876EDB18695347860F79ACDDC68993F711274556156769476CD05AE8A` |
 | Taille | 104 792 octets |
-| Signataire | `CN=Python Software Foundation, O=Python Software Foundation, L=Beaverton, S=Oregon, C=US` |
-| Chemin de drop | `%APPDATA%\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc_QUARANTINE_DO_NOT_DELETE\FNPLicensingService.exe` |
-| Dossier de drop pattern | `%APPDATA%\Roaming\Intel\GPUCache\intcache\<hex>_QUARANTINE_DO_NOT_DELETE\` |
+| Signataire (renommage trompeur) | `CN=Python Software Foundation, O=Python Software Foundation, L=Beaverton, S=Oregon, C=US` |
+| Path post-Defender | `%APPDATA%\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc_QUARANTINE_DO_NOT_DELETE\FNPLicensingService.exe` |
+| Path original (tâche pointe ici) | `%APPDATA%\Roaming\Intel\GPUCache\intcache\2cffb1d34d8f67bc\FNPLicensingService.exe` |
+| Payload sideloadé | `node_modules.asar` (même dossier) |
+| Dossier de drop pattern | `%APPDATA%\Roaming\Intel\GPUCache\intcache\<hex16>\` |
 
-### 8.3 Hôte / process
+### 8.3 Tâche planifiée
+
+| Type | Valeur |
+|---|---|
+| Nom | `AGCO Terms About 44060-<SID utilisateur>` |
+| TaskPath | `\` (racine) |
+| Trigger | `PT10M` (10 minutes ISO 8601) |
+| Duration | 365 jours |
+| Hidden | Oui |
+| RunLevel | Limited |
+| State observée | Disabled (probablement par Defender) |
+
+### 8.4 Hôte / process
 
 | Type | Valeur |
 |---|---|
@@ -316,14 +366,14 @@ La tâche planifiée :
 | ScriptBlock GUID Stage 2 (21-chunks) | `4c8aea3e-76fb-40c6-aaa3-ba5fc9509f91` |
 | ScriptBlock GUID beacon | `3662a090-de88-4962-a3b7-87cfe5048120` |
 
-### 8.4 Cryptographique
+### 8.5 Cryptographique
 
 | Type | Valeur |
 |---|---|
 | Clé RC4 (UTF-8) | `F1YFtXoG710avUMhXaSKz6KUlsAgnpxqkK7HoaD=kHLxNfoKpfhPlCbYSd/dHH8FZMLOxWBzDpoduGCYIKe6EVYUDl/01XUoV6WAPFPOUlF8W3mu6yKq6NbDb4VKWt0RkoLHYhbxpr97CrBwxiW2yTUC8wrra6M8l8eL0PhY1Yz=7y7qaprmI6org2Ro=XOH8cXhR22emMF1lxYKV2UnOiYEafVhYqgbSb2njg8ONc6xwu8w15ACsTltSzWgGz6l1e1aj5pKJnnqR6HsNRk3lwuifwKJcK3AuCbc=RdCZmpG7oeict3Nz/+/xkbcdH` |
 | Pad ciphertext skip | 195 octets |
 
-### 8.5 Comportementaux
+### 8.6 Comportementaux
 
 | Indicateur | Description |
 |---|---|
